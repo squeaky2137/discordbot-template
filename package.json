@@ -1,0 +1,16 @@
+{
+  "name": "repoName",
+  "version": "1.0.0",
+  "description": "repoDesc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "squeaky2137",
+  "license": "MIT",
+  "dependencies": {
+      "discord.js": "^14.7.1",
+      "glob": "^8.0.3"
+  }
+}
